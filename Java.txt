@@ -1,0 +1,98 @@
+Compilation  Error Free Delivery
+
+     Yes, their is no any single scenario where i delivered the code to the test environment and compilation error issue came.
+	 I also take care of the compilation issue scenario.
+
+(I have developed the code as per the requirement with all my understanding of requirement first so as to reduce any more work later and take the local build before the delivery of the code).	 
+	 
+Adherence  to standards in developing code
+
+    Yes, For developing the code i firstly analyse all the scenario that going to be affected then i tried to optimise the affected scenario by which code effieciency will be more.
+	
+    Also I write code in  proper format with proper code reusability and less time complexity that prove it to be  adherence to standard.
+	
+	Also I use the format of  recognised design to implement the operation needed for the issue or Incident and I also document the changes so that maintaince will be easy.
+	
+	I try to take the leadership of the all the assignment issued to me .
+	
+	
+	
+Adherence  to standards in developing code
+
+   Office Timing
+   -----------------
+   I always maintain the Office timing .I always come to office by 11.30 AM sharp with exception of some personal issue sometime.I also extend my working hours when needed. I will try to come by 11AM.
+   
+   
+   Increase your T FActor
+   -----------------------------
+   
+   I have completeed all the manditory training and my all courses assigned to me on time and score 1.5/3 TFactor.
+   Apart frm that i also completed many courses to enhance my knowledge related to our project technology like spring boot,spring,java . I will try to enhance my TFACTOR periodically.
+   
+   
+   No of Reusable tool developed
+   ------------------------------
+   I developed two code which help me to reduce my time as well as my effort.
+   1) A jQuery based code which fill the form automatically. This help me in reducing the user data registration .
+   2) A selenium based code which automatically login with some set of user data once the code is executed.
+   
+  
+   Outside project activities taken
+   --------------------------------
+   
+   I have developed code as per the requirement and additional to our project code i am also trying to learn other technologies by which i can contribute myself to the other technology activity. 
+   
+   Its not a headache but its oppurtunity to learn different activity with the experienced seniours as well as by myself.
+   
+   
+   No of knowledge sharing session conduct.
+   ------------------------------------------
+   
+   I have attended 3 working session with one of Microservice ,2 of ASDP architecture by our seniours.
+   
+   And i conduct 4 working session to my juniour on ASDP as well as AO/BAO flow.
+   ----------------------------------------------------------
+   Closure of post implementation defect raised by customer.
+   ----------------------------------------------------------------
+   
+   I have done all changes based on the requirment scenario with proper design making and then imlementation i did.
+
+   If the post implementation is raised by customer i again follow the same process and also always take local build first so that customer impact will be null.
+   
+   
+   
+   
+   
+   
+   
+   
+   Ability to make systeamtic and rational judegements based on relevant information
+   ----------------------------------------------------------------------------
+   I have done some work individually which not only made myself confident but also help me to take decision 
+   by myself when their is a situation came to take desision indivisually . Also I am building self  decision taking capability and judgement ability in myself continuously. 
+   
+   
+   Capability of an indivdual to convey  the right information  and influence other towardarddesired actionm either verbally or by written means
+   ------------------------------------------------------------------------------------------------------------
+   I have  attended calls where i have to answer by myself 
+   to the business person sometime with my team and sometime indivdually. And I prove myself right in providing information either verbally or in written. 
+   
+   
+   
+   
+   Attitude to continuously  seek knowledge to enhance one's professional growth and performance-
+   ---------------------------------------------------------------------------------------------
+   TCS provide so much of platform to enhance  knowledge and i uses it on continuous basis. I uses Lynda, Fresco and give various competencies to enhance my knowledge and also to provide my support to my team by my skills .
+   
+   
+   
+   
+   
+   
+   
+   
+	
+	
+	
+	 
